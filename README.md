@@ -19,3 +19,7 @@ This project was made possible by using <b>IntelliJ Idea</b>
 Sass was used to create varibles and other css styles to make work flow easy => https://sass-lang.com/
 
 This template is free for use in any personal or commerical project
+
+# Project Files Tree
+
+<img src="https://docs.google.com/uc?export=download&id=0B3mwICT7qVWYUE1mZ2d6Mmppejg"/>
